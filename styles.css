@@ -1,5 +1,10 @@
 body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  font-family: sans-serif;
+}
+
+.established{
+  font-style: italic;
 }
 
 h1, h2, p {
@@ -13,6 +18,9 @@ h1, h2, p {
   margin-right: auto;
   max-width: 500px;
   padding: 20px;
+}
+h1,h2{
+  font-family: Impact, serif;
 }
 
 .item p {
